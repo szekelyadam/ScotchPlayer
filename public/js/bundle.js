@@ -1,0 +1,1 @@
+console.error("Error: SyntaxError: Unexpected string in JSON at position 385 while parsing json file /Users/adamszekely/Development/scotch-player/package.json");
